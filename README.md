@@ -15,3 +15,9 @@
 
 1. [The School of AI](https://www.theschool.ai/)
 2. [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+## Computer Graphics
+
+### Books
+
+1. [Principles of Digital Image Synthesis: Volume 1](http://www.realtimerendering.com/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
