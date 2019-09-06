@@ -22,6 +22,8 @@
 
 1. [Principles of Digital Image Synthesis: Volume 1,2](http://www.realtimerendering.com/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
 
+2. [GPU Gems](https://developer.nvidia.com/gpugems)
+
 ### Other resource lists
 
 1. [Real time rendering](http://www.realtimerendering.com/)
