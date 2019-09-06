@@ -21,3 +21,9 @@
 ### Books
 
 1. [Principles of Digital Image Synthesis: Volume 1,2](http://www.realtimerendering.com/Principles_of_Digital_Image_Synthesis_v1.0.1.pdf)
+
+### Other resource lists
+
+1. [Real time rendering](http://www.realtimerendering.com/)
+
+1. [ACM-TOG Research Resources](http://tog.acm.org/bib_look.cfm)
