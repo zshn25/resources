@@ -11,6 +11,8 @@
 
 1. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
 
+2. [Mathematical Tours for Data Science](https://mathematical-tours.github.io/book-basics-sources/IntroImaging.pdf)
+
 ### Online courses with hands on exercises
 
 1. [The School of AI](https://www.theschool.ai/)
